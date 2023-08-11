@@ -1,0 +1,2 @@
+0 com mascara
+1 sem mascara
